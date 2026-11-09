@@ -6,12 +6,6 @@
 
 👋 I'm Manh Hy, a software engineer in Ho Chi Minh City. I mostly work on backend services with Go and TypeScript. I also write Python, build React interfaces, and make small macOS apps in Swift.
 
-### How I use AI
-
-I use Claude Code and Codex to work through code, try ideas, and help with implementation and review. My dotfiles repo holds the skills, instructions, and tool setup I reuse between projects. For bigger changes, I split the work into smaller tasks, then read the diff and run the relevant checks.
-
-I also build AI features into my own apps. That means writing the code around the model, from supplying context to handling a response that doesn't match what the app expects. I keep fixed rules in code and use AI for the parts that benefit from language and context.
-
 ### Technical stacks
 
 <p>
@@ -57,6 +51,12 @@ I also build AI features into my own apps. That means writing the code around th
     </td>
   </tr>
 </table>
+
+### How I use AI
+
+I use Claude Code and Codex to work through code, try ideas, and help with implementation and review. My dotfiles repo holds the skills, instructions, and tool setup I reuse between projects. For bigger changes, I split the work into smaller tasks, then read the diff and run the relevant checks.
+
+I also build AI features into my own apps. That means writing the code around the model, from supplying context to handling a response that doesn't match what the app expects. I keep fixed rules in code and use AI for the parts that benefit from language and context.
 
 <p align="center">
   <picture>
