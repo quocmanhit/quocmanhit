@@ -1,8 +1,4 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-still.jpg">
-    <img src="assets/banner.gif" width="100%" alt="Manh Hy profile banner">
-  </picture>
   <img src="assets/welcome.svg" width="100%" alt="Hi, I’m Manh Hy · Software Engineer">
 </p>
 
@@ -60,4 +56,9 @@
   </tr>
 </table>
 
-<!-- Banner source: https://64.media.tumblr.com/52d5fb518dda1b5930758bdd90efd941/ad7f13074526abf3-25/s1280x1920/bd568d129a9b791ec1ff752b75e7ddea1d28506d.gifv -->
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/monkey-still.jpg">
+    <img src="assets/monkey.gif" width="480" alt="Pixel-art monkey typing at a computer">
+  </picture>
+</p>
