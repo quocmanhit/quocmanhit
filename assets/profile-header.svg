@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Manh Hy — Software Engineer</title>
+  <desc id="desc">Based in Ho Chi Minh City, Vietnam. Backend services, native macOS apps, and everyday tools.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c30"/>
+      <stop offset="1" stop-color="#0b1120"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M48 0H1152" stroke="url(#accent)" stroke-width="3"/>
+  <circle cx="1100" cy="45" r="140" fill="#2563eb" fill-opacity="0.06"/>
+  <circle cx="1130" cy="310" r="160" fill="#14b8a6" fill-opacity="0.05"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="58" y="77" fill="#5eead4" font-size="14" font-weight="600" letter-spacing="3">HELLO, I'M</text>
+    <text x="54" y="154" fill="#f8fafc" font-size="68" font-weight="750" letter-spacing="-2">Manh Hy<tspan fill="#5eead4">.</tspan></text>
+    <text x="58" y="198" fill="#cbd5e1" font-size="24">Software Engineer</text>
+    <text x="58" y="245" fill="#94a3b8" font-size="17">Backend services. Native macOS apps. Everyday tools.</text>
+    <circle cx="64" cy="294" r="5" fill="#5eead4"/>
+    <text x="80" y="300" fill="#94a3b8" font-size="15">Ho Chi Minh City, Vietnam</text>
+    <rect x="740" y="68" width="400" height="226" rx="14" fill="#0b1220" stroke="#334155"/>
+    <path d="M740 109H1140" stroke="#334155"/>
+    <circle cx="762" cy="89" r="5" fill="#fb7185"/>
+    <circle cx="780" cy="89" r="5" fill="#fbbf24"/>
+    <circle cx="798" cy="89" r="5" fill="#34d399"/>
+    <text x="1032" y="94" fill="#64748b" font-size="12">~/quocmanhit</text>
+  </g>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16">
+    <text x="766" y="148" fill="#5eead4">$ <tspan fill="#e2e8f0">cat interests.txt</tspan></text>
+    <text x="766" y="185" fill="#94a3b8">native apps / backend / web</text>
+    <text x="766" y="226" fill="#5eead4">$ <tspan fill="#e2e8f0">ls projects/</tspan></text>
+    <text x="766" y="263" fill="#93c5fd">WindowFlow  MouseFlow</text>
+  </g>
+</svg>
