@@ -1,22 +1,41 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img src="assets/intro-light.svg" width="100%" alt="Manh Hy · Software Engineer · Ho Chi Minh City, Vietnam">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-still.jpg">
+    <img src="assets/banner.gif" width="100%" alt="Manh Hy profile banner">
+  </picture>
+  <img src="assets/welcome.svg" width="100%" alt="Hi, I’m Manh Hy · Software Engineer">
+</p>
 
-### About me
+### A little about me
 
-My work centers on **backend services and APIs**, using **Go** and **Node.js / TypeScript**. I also build web interfaces with **React** and native macOS utilities with **Swift**.
+👋 I’m **Manh Hy**, a software engineer based in **Ho Chi Minh City, Vietnam**. My work centers on **backend services and APIs**, using **Go** and **Node.js / TypeScript**.
 
-My projects involve HTTP APIs, database access, caching, and messaging between services, as well as the interfaces people use to work with them.
+⚙️ I work with **databases, caching, and messaging between services**—connecting HTTP APIs with the data and workflows behind them. **Echo, GORM, and Moleculer** are part of my backend toolkit.
 
-### Tech stack
+🛠️ I also build web interfaces with **React** and native macOS utilities with **Swift**. My personal projects include tools for switching windows and making everyday mouse interactions more comfortable.
 
-| Area | Technologies |
-| :--- | :--- |
-| Backend | Go · Node.js · TypeScript · Echo · GORM · Moleculer |
-| Data & messaging | PostgreSQL · MongoDB · Redis · NATS |
-| Frontend | React |
-| Native apps | Swift · macOS |
+### Technical stacks
+
+**Languages & runtime**
+
+![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6)
+![Swift](https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=F05138)
+
+**Frameworks & libraries**
+
+![Echo](https://img.shields.io/badge/Echo-white?style=flat)
+![GORM](https://img.shields.io/badge/GORM-white?style=flat)
+![Moleculer](https://img.shields.io/badge/Moleculer-white?style=flat)
+![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=149ECA)
+
+**Databases, cache & messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=DC382D)
+![NATS](https://img.shields.io/badge/NATS-white?style=flat&logo=natsdotio&logoColor=27AAE1)
 
 ### Selected projects
 
@@ -24,19 +43,21 @@ My projects involve HTTP APIs, database access, caching, and messaging between s
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <a href="https://github.com/quocmanhit/window-flow"><img src="assets/windowflow.png" width="72" height="72" alt="WindowFlow app icon"></a>
+      <a href="https://github.com/quocmanhit/window-flow"><img src="assets/windowflow.png" width="64" height="64" alt="WindowFlow app icon"></a>
       <h3><a href="https://github.com/quocmanhit/window-flow">WindowFlow ↗</a></h3>
-      <p>Windows-style Alt-Tab, customizable keyboard shortcuts, and window layouts in a lightweight macOS menu bar app.</p>
+      <p>Alt-Tab window switching, keyboard shortcuts, and window layouts for macOS.</p>
       <sub>Swift · macOS</sub>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <a href="https://github.com/quocmanhit/mouse-flow"><img src="assets/mouseflow.png" width="72" height="72" alt="MouseFlow app icon"></a>
+      <a href="https://github.com/quocmanhit/mouse-flow"><img src="assets/mouseflow.png" width="64" height="64" alt="MouseFlow app icon"></a>
       <h3><a href="https://github.com/quocmanhit/mouse-flow">MouseFlow ↗</a></h3>
-      <p>Smooth mouse-wheel scrolling, independent scroll direction, and per-app button mappings in a lightweight macOS menu bar app.</p>
+      <p>Smooth scrolling, independent scroll direction, and per-app mouse button mappings.</p>
       <sub>Swift · macOS</sub>
       <br><br>
     </td>
   </tr>
 </table>
+
+<!-- Banner source: https://64.media.tumblr.com/52d5fb518dda1b5930758bdd90efd941/ad7f13074526abf3-25/s1280x1920/bd568d129a9b791ec1ff752b75e7ddea1d28506d.gifv -->

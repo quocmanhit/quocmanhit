@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I’m Manh Hy</title>
+  <desc id="description">Software Engineer. A gently animated welcome in neon lime.</desc>
+  <style>
+    .greeting {
+      fill: #526600;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 46px;
+      font-weight: 700;
+      text-anchor: middle;
+    }
+    .subtitle {
+      fill: #6B7280;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 21px;
+      letter-spacing: 3px;
+      text-anchor: middle;
+    }
+    .reveal { animation: reveal 7s steps(18, end) infinite; }
+    @keyframes reveal {
+      0%, 8% { width: 0; }
+      44%, 94%, 100% { width: 600px; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .greeting { fill: #E1F72E; }
+      .subtitle { fill: #9299A6; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; width: 600px; }
+    }
+  </style>
+  <defs>
+    <clipPath id="welcome-reveal" clipPathUnits="userSpaceOnUse">
+      <rect class="reveal" x="300" y="20" width="600" height="70" />
+    </clipPath>
+  </defs>
+  <text class="greeting" x="600" y="76" clip-path="url(#welcome-reveal)">Hi, I’m Manh Hy</text>
+  <text class="subtitle" x="600" y="121">Software Engineer</text>
+</svg>
