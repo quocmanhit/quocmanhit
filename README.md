@@ -8,15 +8,16 @@
 
 ⚙️ I work with **databases, caching, and messaging between services**—connecting HTTP APIs with the data and workflows behind them. **Echo, GORM, and Moleculer** are part of my backend toolkit.
 
-🛠️ I also build web interfaces with **React** and native macOS utilities with **Swift**. My personal projects include tools for switching windows and making everyday mouse interactions more comfortable.
+🛠️ I also build **React** interfaces, **Python** AI services, and native macOS utilities with **Swift**.
 
-### Working with AI
+### Building with AI
 
-🤖 I use **Claude Code and Codex** as part of my development workflow, with tooling and conventions I maintain in my personal **dotfiles**.
+🤖 I apply AI to **news workflows and language learning**, building the services and interfaces around each feature.
 
-- **Reusable workflows:** shared skills and project instructions for consistent context and repeatable tasks.
-- **Connected tools:** MCP integrations, hooks, and local automation to bring development context into the workflow.
-- **Review & verification:** scoped tasks with independent reviews, followed by inspecting diffs and checking the integrated changes.
+- **AI News:** article summaries, key takeaways, and article-based Q&A; text and audio digests for Telegram; and structured video-script drafts from selected stories.
+- **My English:** contextual translation, feedback on learner-written sentences, targeted review cards for difficult vocabulary, and pipelines that turn video transcripts into vocabulary for study.
+- **Product engineering:** structured outputs, validation, caching, and provider fallbacks; application rules map model feedback to review ratings.
+- **Development workflow:** **Claude Code and Codex**, reusable skills and MCP integrations from my **dotfiles**, scoped tasks, independent reviews, and checks on integrated changes.
 
 ### Technical stacks
 
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/Go-white?style=flat&amp;logo=go&amp;logoColor=00ADD8" height="22" alt="Go">
   <img src="https://img.shields.io/badge/Node.js-white?style=flat&amp;logo=nodedotjs&amp;logoColor=339933" height="22" alt="Node.js">
   <img src="https://img.shields.io/badge/TypeScript-white?style=flat&amp;logo=typescript&amp;logoColor=3178C6" height="22" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-white?style=flat&amp;logo=python&amp;logoColor=3776AB" height="22" alt="Python">
   <img src="https://img.shields.io/badge/Swift-white?style=flat&amp;logo=swift&amp;logoColor=F05138" height="22" alt="Swift">
 </p>
 
