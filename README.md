@@ -4,20 +4,13 @@
 
 ### A little about me
 
-👋 I’m **Manh Hy**, a software engineer based in **Ho Chi Minh City, Vietnam**. My work centers on **backend services and APIs**, using **Go** and **Node.js / TypeScript**.
+👋 I'm Manh Hy, a software engineer in Ho Chi Minh City. I mostly work on backend services with Go and TypeScript. I also write Python, build React interfaces, and make small macOS apps in Swift.
 
-⚙️ I work with **databases, caching, and messaging between services**—connecting HTTP APIs with the data and workflows behind them. **Echo, GORM, and Moleculer** are part of my backend toolkit.
+### How I use AI
 
-🛠️ I also build **React** interfaces, **Python** AI services, and native macOS utilities with **Swift**.
+I use Claude Code and Codex to work through code, try ideas, and help with implementation and review. My dotfiles repo holds the skills, instructions, and tool setup I reuse between projects. For bigger changes, I split the work into smaller tasks, then read the diff and run the relevant checks.
 
-### Building with AI
-
-🤖 I apply AI to **news workflows and language learning**, building the services and interfaces around each feature.
-
-- **AI News:** article summaries, key takeaways, and article-based Q&A; text and audio digests for Telegram; and structured video-script drafts from selected stories.
-- **My English:** contextual translation, feedback on learner-written sentences, targeted review cards for difficult vocabulary, and pipelines that turn video transcripts into vocabulary for study.
-- **Product engineering:** structured outputs, validation, caching, and provider fallbacks; application rules map model feedback to review ratings.
-- **Development workflow:** **Claude Code and Codex**, reusable skills and MCP integrations from my **dotfiles**, scoped tasks, independent reviews, and checks on integrated changes.
+I also build AI features into my own apps. That means writing the code around the model, from supplying context to handling a response that doesn't match what the app expects. I keep fixed rules in code and use AI for the parts that benefit from language and context.
 
 ### Technical stacks
 
