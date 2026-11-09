@@ -1,12 +1,27 @@
-# Hi, I'm Manh Hy 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+  <img src="assets/intro-light.svg" width="100%" alt="Manh Hy · Software Engineer · Ho Chi Minh City, Vietnam">
+</picture>
 
-I'm a software engineer based in **Ho Chi Minh City, Vietnam**.
+<p align="center">I build backend services, web apps, and little tools for everyday life.</p>
 
-I work on backend services and web applications, and I also build small macOS apps to make everyday tasks a little easier.
-
-### A few things I've built
-
-- **[WindowFlow](https://github.com/quocmanhit/window-flow)** — Window switching and keyboard window management for macOS.
-- **[MouseFlow](https://github.com/quocmanhit/mouse-flow)** — Smooth scrolling and custom mouse button mappings for macOS.
-
-Feel free to explore my projects or share your feedback. Thanks for visiting!
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <br>
+      <a href="https://github.com/quocmanhit/window-flow"><img src="assets/windowflow.png" width="72" height="72" alt="WindowFlow app icon"></a>
+      <h3><a href="https://github.com/quocmanhit/window-flow">WindowFlow ↗</a></h3>
+      <p>Window switching, made simple.</p>
+      <sub>Swift · macOS</sub>
+      <br><br>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <a href="https://github.com/quocmanhit/mouse-flow"><img src="assets/mouseflow.png" width="72" height="72" alt="MouseFlow app icon"></a>
+      <h3><a href="https://github.com/quocmanhit/mouse-flow">MouseFlow ↗</a></h3>
+      <p>A smoother mouse experience.</p>
+      <sub>Swift · macOS</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
