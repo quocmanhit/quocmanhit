@@ -12,46 +12,45 @@
 
 ### Technical stacks
 
-**Languages & runtime**
+<p>
+  <strong>Languages &amp; runtime</strong><br>
+  <img src="https://img.shields.io/badge/Go-white?style=flat&amp;logo=go&amp;logoColor=00ADD8" height="22" alt="Go">
+  <img src="https://img.shields.io/badge/Node.js-white?style=flat&amp;logo=nodedotjs&amp;logoColor=339933" height="22" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-white?style=flat&amp;logo=typescript&amp;logoColor=3178C6" height="22" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Swift-white?style=flat&amp;logo=swift&amp;logoColor=F05138" height="22" alt="Swift">
+</p>
 
-![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8)
-![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6)
-![Swift](https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=F05138)
+<p>
+  <strong>Frameworks &amp; libraries</strong><br>
+  <img src="https://img.shields.io/badge/Echo-white?style=flat" height="22" alt="Echo">
+  <img src="https://img.shields.io/badge/GORM-white?style=flat" height="22" alt="GORM">
+  <img src="https://img.shields.io/badge/Moleculer-white?style=flat" height="22" alt="Moleculer">
+  <img src="https://img.shields.io/badge/React-white?style=flat&amp;logo=react&amp;logoColor=149ECA" height="22" alt="React">
+</p>
 
-**Frameworks & libraries**
-
-![Echo](https://img.shields.io/badge/Echo-white?style=flat)
-![GORM](https://img.shields.io/badge/GORM-white?style=flat)
-![Moleculer](https://img.shields.io/badge/Moleculer-white?style=flat)
-![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=149ECA)
-
-**Databases, cache & messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=DC382D)
-![NATS](https://img.shields.io/badge/NATS-white?style=flat&logo=natsdotio&logoColor=27AAE1)
+<p>
+  <strong>Databases, cache &amp; messaging</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-white?style=flat&amp;logo=postgresql&amp;logoColor=4169E1" height="22" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-white?style=flat&amp;logo=mongodb&amp;logoColor=47A248" height="22" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-white?style=flat&amp;logo=redis&amp;logoColor=DC382D" height="22" alt="Redis">
+  <img src="https://img.shields.io/badge/NATS-white?style=flat&amp;logo=natsdotio&amp;logoColor=27AAE1" height="22" alt="NATS">
+</p>
 
 ### Selected projects
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <br>
-      <a href="https://github.com/quocmanhit/window-flow"><img src="assets/windowflow.png" width="64" height="64" alt="WindowFlow app icon"></a>
-      <h3><a href="https://github.com/quocmanhit/window-flow">WindowFlow ↗</a></h3>
+      <a href="https://github.com/quocmanhit/window-flow"><img src="assets/windowflow.png" width="56" height="56" alt="WindowFlow app icon"></a>
+      <p><strong><a href="https://github.com/quocmanhit/window-flow">WindowFlow ↗</a></strong></p>
       <p>Alt-Tab window switching, keyboard shortcuts, and window layouts for macOS.</p>
       <sub>Swift · macOS</sub>
-      <br><br>
     </td>
     <td width="50%" align="center" valign="top">
-      <br>
-      <a href="https://github.com/quocmanhit/mouse-flow"><img src="assets/mouseflow.png" width="64" height="64" alt="MouseFlow app icon"></a>
-      <h3><a href="https://github.com/quocmanhit/mouse-flow">MouseFlow ↗</a></h3>
+      <a href="https://github.com/quocmanhit/mouse-flow"><img src="assets/mouseflow.png" width="56" height="56" alt="MouseFlow app icon"></a>
+      <p><strong><a href="https://github.com/quocmanhit/mouse-flow">MouseFlow ↗</a></strong></p>
       <p>Smooth scrolling, independent scroll direction, and per-app mouse button mappings.</p>
       <sub>Swift · macOS</sub>
-      <br><br>
     </td>
   </tr>
 </table>
@@ -59,6 +58,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/monkey-still.jpg">
-    <img src="assets/monkey.gif" width="480" alt="Pixel-art monkey typing at a computer">
+    <img src="assets/monkey.gif" width="240" height="172" alt="Pixel-art monkey typing at a computer">
   </picture>
 </p>
