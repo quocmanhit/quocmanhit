@@ -10,6 +10,14 @@
 
 🛠️ I also build web interfaces with **React** and native macOS utilities with **Swift**. My personal projects include tools for switching windows and making everyday mouse interactions more comfortable.
 
+### Working with AI
+
+🤖 I use **Claude Code and Codex** as part of my development workflow, with tooling and conventions I maintain in my personal **dotfiles**.
+
+- **Reusable workflows:** shared skills and project instructions for consistent context and repeatable tasks.
+- **Connected tools:** MCP integrations, hooks, and local automation to bring development context into the workflow.
+- **Review & verification:** scoped tasks with independent reviews, followed by inspecting diffs and checking the integrated changes.
+
 ### Technical stacks
 
 <p>
